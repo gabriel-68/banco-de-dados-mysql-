@@ -112,12 +112,12 @@ consultas.sql — consultas SQL contextualizadas.
 dump_loja_facil.sql — exportação completa do banco, quando gerada.
 
 .
-11. Tecnologias Utilizadas
+10. Tecnologias Utilizadas
 MySQL
 MySQL Workbench
 SQL
 GitHub
-12. Conclusão
+11. Conclusão
 
 O projeto demonstra a aplicação dos conceitos de modelagem de dados, relacionamentos, cardinalidade, normalização e consultas SQL em um cenário empresarial fictício.
 
