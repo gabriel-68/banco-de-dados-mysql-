@@ -117,9 +117,6 @@ MySQL
 MySQL Workbench
 SQL
 GitHub
-11. Conclusão
-
-O projeto demonstra a aplicação dos conceitos de modelagem de dados, relacionamentos, cardinalidade, normalização e consultas SQL em um cenário empresarial fictício.
 
 A implementação de um banco de dados relacional contribui para a organização, integridade e consistência das informações, facilitando a gestão de clientes, produtos, pedidos e pagamentos.
 
